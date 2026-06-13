@@ -1,2 +1,1 @@
-# EcoMonitoringSystemt
-EcoMonitoringSystem - навчальний проект демонстрації SOLID
+EcoMonitoringSystem - версія README з основної гілки main.
